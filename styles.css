@@ -39,4 +39,25 @@ body {
   display: flex;
   justify-content: space-between;
   margin: 0 3rem;
+  gap: 3rem;
+}
+
+.main-content > div:first-child {
+  flex: 1 1 60%; 
+}
+
+.right-side {
+  flex: 1 1 40%; 
+}
+
+h1 {
+  font-family: "Poppins";
+  color: white;
+  font-weight: 600;
+}
+
+.description {
+  font-family: "Open Sans";
+  color: white;
+  font-weight: 400;
 }
