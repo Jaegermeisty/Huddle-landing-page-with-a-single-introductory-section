@@ -34,3 +34,9 @@ body {
   width: 10rem;
   margin: 2rem 0 4.5rem 3rem;
 }
+
+.main-content {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 3rem;
+}
