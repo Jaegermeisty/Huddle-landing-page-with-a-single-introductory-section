@@ -1,6 +1,6 @@
 # Frontend Mentor – Huddle landing page with a single introductory section
 
-This is my solution to the [Huddle landing page with a single introductory section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0) :contentReference[oaicite:0]{index=0}. A responsive two-column landing page built with semantic HTML5 and CSS Flexbox.
+This is my solution to the [Huddle landing page with a single introductory section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0). A responsive two-column landing page built with semantic HTML5 and CSS Flexbox.
 
 ## Table of contents
 
@@ -10,10 +10,10 @@ This is my solution to the [Huddle landing page with a single introductory secti
 
 ## Built with
 
-- **Semantic HTML** for clear document structure and accessibility :contentReference[oaicite:1]{index=1}  
+- **Semantic HTML** for clear document structure and accessibility  
 - **CSS**  
   - Custom properties for theming  
-  - Flexbox for layout (`flex: 1 1 60%` / `flex: 1 1 40%`) :contentReference[oaicite:2]{index=2}  
+  - Flexbox for layout (`flex: 1 1 60%` / `flex: 1 1 40%`) 
 - Mobile-first workflow with a single media-query breakpoint  
 
 ## What I learned
