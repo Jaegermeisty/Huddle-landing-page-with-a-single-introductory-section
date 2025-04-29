@@ -77,3 +77,15 @@ button:hover {
   background-color: hsl(300, 69%, 71%);
   color: white;
 }
+
+.sm-icons {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 3rem;
+  gap: 1rem;
+}
+
+.sm-icon {
+  width: 2rem;
+  cursor: pointer;
+}
