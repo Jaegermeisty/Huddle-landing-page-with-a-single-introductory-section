@@ -96,11 +96,33 @@ button:hover {
   color: hsl(300, 69%, 71%);
 }
 
-@media (max-width: 760px) {
+@media (max-width: 800px) {
   body {
     background-image: url(images/bg-mobile.svg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+  }
+
+  .main-content {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .right-side, .left-side {
+    flex: unset;
+  }
+
+  .right-side {
+    text-align: center;
+  }
+
+  .logo {
+    margin-bottom: 3rem;
+  }
+
+  .sm-icons {
+    justify-content: center;
+    margin: 3rem 0;
   }
 }
